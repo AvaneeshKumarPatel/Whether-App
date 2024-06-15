@@ -232,12 +232,12 @@ h1 {
 }
 
 p{
-  font-size: small !important; 
+  font-size: larger !important; 
 }
 
 @media only screen and (max-width: 600px) {
   p {
-      font-size: xx-small !important; 
+      font-size:large !important; 
   }
 }
 
